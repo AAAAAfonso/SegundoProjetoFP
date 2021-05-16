@@ -1,2 +1,4 @@
 # SegundoProjetoFP
-Projeto do Jogo do Moinho
+Segundo Projeto de Fundamentos da Programação
+
+
