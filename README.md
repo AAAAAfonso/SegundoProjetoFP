@@ -1,7 +1,7 @@
 # SegundoProjetoFP
 Segundo Projeto de Fundamentos da Programação
 
-#AVALIAÇÃO QUALIDADE DO CODIGO:
+# AVALIAÇÃO QUALIDADE DO CODIGO:
 
 ********** Boas praticas (max. 1.5 val) ********** 
 
@@ -28,7 +28,7 @@ Algumas variáveis têm nome curto e pouco intuitivo
 
 Nota: 3.75
 
-#AVALIAÇÃO EXECUÇÃO DO CODIGO:
+# AVALIAÇÃO EXECUÇÃO DO CODIGO:
 
 ********** Avaliação Automática(max. 1200) **********
 
