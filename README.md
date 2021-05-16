@@ -1,6 +1,8 @@
 # SegundoProjetoFP
 Segundo Projeto de Fundamentos da Programação
 
+Resolução de um jogo do moinho
+
 ## Avaliação qualidade do codigo
 
 ********** Boas praticas (max. 1.5 val) ********** 
