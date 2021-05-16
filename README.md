@@ -36,6 +36,8 @@ Nota mooshak: 1200
 
 Desconto por submissões a mais: -10
 
+Final: 1190
+
 ********** Abstração de dados (máx 4.0) **********
 
 Nota abstração de dados: 4.0
